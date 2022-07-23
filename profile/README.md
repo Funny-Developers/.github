@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-#组织收人啦！
+# 组织收人啦！
 
 要求：
 
@@ -26,7 +26,7 @@
 
 详情请咨询：
 
-##邮箱：
+## 邮箱：
 
 zhu2904004233@126.com
 
@@ -34,10 +34,14 @@ zhu2904004233@outlook.com
 
 2904004233@qq.com
 
-##QQ：
+## QQ：
 
 2904004233
 
-网站：funny-developers.github.com
+## 网站：
 
-GitHub主页：github.com/funny-developers
+https://funny-developers.github.com
+
+## GitHub主页：
+
+https://github.com/funny-developers
