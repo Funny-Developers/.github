@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,3 +8,36 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+#组织收人啦！
+
+要求：
+
+至少有一个GitHub账号且懂得如何使用Git，会用GitHub
+
+至少会Java/C#/C++/C其中一门编程语言
+
+最好会一门非英语的外语
+
+
+可以有特长，如电脑绘画，音乐制作，UI制作
+
+不招摸鱼的，除非是学业和工作原因
+
+详情请咨询：
+
+##邮箱：
+
+zhu2904004233@126.com
+
+zhu2904004233@outlook.com
+
+2904004233@qq.com
+
+##QQ：
+
+2904004233
+
+网站：funny-developers.github.com
+
+GitHub主页：github.com/funny-developers
