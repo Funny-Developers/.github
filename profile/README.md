@@ -41,7 +41,7 @@ zhu2904004233@outlook.com
 
 ### 网站：
 
-https://funny-developers.github.com
+https://funny-developers.github.io
 
 ### GitHub主页：
 
